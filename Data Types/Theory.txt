@@ -1,0 +1,9 @@
+Data Types in JAVA:-
+1. boolean - JVM Specific [true or false]
+2.byte - 1 
+3.short - 2 bytes 
+4.int - 4 bytes [10]
+5.float - 4 bytes [11.2]
+6.double - 8 bytes [8845.287]
+7.long - 8 bytes [71928415.848451]
+8.char - 2 bytes ['V']

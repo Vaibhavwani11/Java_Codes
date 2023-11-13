@@ -1,0 +1,1 @@
+1. const is not allowed in java (const in c++ is replaced by final in java)
